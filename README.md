@@ -2,10 +2,10 @@
 
 ![Tests](https://github.com/PureStake/moonbeam/workflows/Release/badge.svg)
 
-**An Ethereum compatible [Parachain](https://tetcoin.org/) built with [Tetcore](https://core.tetcoin.org).**
+**An Ethereum compatible [Parachain](https://polkadot.network/technology/) built with [Substrate](https://substrate.dev).**
 
-👉 _Discover the Tetonix project at [Tetcoin Tetonix](https://tetonix.tetcoin.org)._<br>
-👉 _Learn to [use the Tetonix network](https://tetonix.tetcoin.org/docs/) with our technical docs._<br>
+👉 _Discover the Moonbeam project at [moonbeam.network](https://moonbeam.network)._<br>
+👉 _Learn to [use the Moonbeam network](https://docs.moonbeam.network/) with our technical docs._<br>
 👉 _Reference our [crate-level docs (rustdocs)](https://purestake.github.io/moonbeam) to contribute._
 
 ## Run an alphanet node with Docker
@@ -131,7 +131,7 @@ Moonbeam nodes support multiple public chains and testnets, with the following C
 
 ## Runtime Architecture
 
-The Tetonix Runtime is built using FRAME and consists of pallets from tetcore, frontier, cumulus, and `pallets/`.
+The Moonbeam Runtime is built using FRAME and consists of pallets from substrate, frontier, cumulus, and `pallets/`.
 
 From substrate:
 
@@ -162,5 +162,5 @@ The following pallets are stored in `pallets/`. They are designed for Moonbeam's
 
 ## Contribute
 
-Tetonix is open source under the terms of the GPL3. We welcome contributions. Please review our
+Moonbeam is open source under the terms of the GPL3. We welcome contributions. Please review our
 [CONTRIBUTIONS.md](CONTRIBUTIONS.md) document for more information.
